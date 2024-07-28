@@ -1,1 +1,1 @@
-# rise-classification
+# rice-classification
